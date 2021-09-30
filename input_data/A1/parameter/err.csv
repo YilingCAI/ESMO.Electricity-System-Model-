@@ -1,0 +1,6 @@
+technology,aFRRup,aFRRdown,mFRRup,mFRRdown
+Wind_offshore,0.0032,0.0032,0.0795,0.02
+Wind_onshore,0.0032,0.0032,0.0795,0.02
+PV_large,0.0032,0.0032,0.0795,0.02
+PV_small,0.0032,0.0032,0.0795,0.02
+Hydro_ROR,0,0,0,0

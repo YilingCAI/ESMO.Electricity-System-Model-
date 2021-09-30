@@ -1,0 +1,4 @@
+YEAR,TECHNOLOGY,CAPEX_line,CAPEX_substation_converter,Opex_line ,Opex_substation_converter,Technology lifetime,Ecomonic lifetime,WACC,Losses,Availability
+2050,HVAC,2600,39000,0.01,0.02,40.00,40.00,0.05,0.007,0.96
+2050,HVDC,1400,125000,0.00,0.02,40.00,40.00,0.05,0.003,0.89
+2050,HVDC_Subsea,532,125000,0.01,0.02,40.00,40.00,0.05,0.003,0.89
